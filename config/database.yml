@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: de-zeepkamer-cms_production
-  username: de-zeepkamer-cms
-  password: <%= ENV['DE-ZEEPKAMER-CMS_DATABASE_PASSWORD'] %>
+  username: root
+  password: root
