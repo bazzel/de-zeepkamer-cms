@@ -4,8 +4,8 @@ lock '3.2.1'
 set :application, 'de-zeepkamer-cms'
 set :repo_url, 'git@github.com:bazzel/de-zeepkamer-cms.git'
 
-#set :rvm_type, :user                     # Defaults to: :auto
-set :rvm_ruby_version, '2.1.2'           # Defaults to: 'default'
+set :rvm_type, :system
+set :rvm_ruby_version, '1.9.2-p320@de-zeepkamer-cms'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
