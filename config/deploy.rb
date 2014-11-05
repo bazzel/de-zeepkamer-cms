@@ -2,7 +2,7 @@
 lock '3.2.1'
 
 set :application, 'de-zeepkamer-cms'
-set :repo_url, 'git@github.com:github.com/bazzel/de-zeepkamer-cms.git'
+set :repo_url, 'git@github.com:bazzel/de-zeepkamer-cms.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
