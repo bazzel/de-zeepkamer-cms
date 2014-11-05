@@ -39,8 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 
-#gem 'refinerycms', github: 'refinery/refinerycms', branch: 'master'
-gem 'refinerycms', github: 'refinery/refinerycms', tag: '535a011f28d'
+gem 'refinerycms', github: 'refinery/refinerycms', branch: 'master'
 gem 'refinerycms-i18n', github: 'refinery/refinerycms-i18n', branch: 'master'
 
 gem 'quiet_assets'

@@ -27,7 +27,7 @@ GIT
 GIT
   remote: git://github.com/refinery/refinerycms.git
   revision: 535a011f28dc72641ea1b270163a33a531ecc7f0
-  tag: 535a011f28d
+  branch: master
   specs:
     refinerycms (3.0.0)
       bundler (>= 1.2.2)
